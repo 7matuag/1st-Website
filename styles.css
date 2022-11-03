@@ -20,3 +20,10 @@ h3 {
     background-color:  #DDFFBC;
     color: #52734D;
 } 
+ 
+li{
+   padding: 7px; 
+}
+.class1{
+    width: 100%;
+}
