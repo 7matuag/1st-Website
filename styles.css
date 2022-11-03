@@ -1,0 +1,22 @@
+body {
+    background-color: #FEFFDE;
+    color: #2c5b08;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr {
+    border-color: #52734D;
+    border-style: dotted none none;;
+    border-width: 7px;
+    width: 10%;
+    size: 100px;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:  #DDFFBC;
+    color: #52734D;
+} 
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:  #DDFFBC;
+    color: #52734D;
+} 
